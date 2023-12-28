@@ -6,22 +6,20 @@ export default function AboutMe() {
         </div>
         <div className="hero--section--content--box about--section--box">
           <div className="hero--section--content">
-            <p className="section--title">About</p>
+            <p className="section--title"></p>
             <h1 className="skills-section--heading">About Me</h1>
             <p className="hero--section-description">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-              officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-              recusandae? Voluptatem, reprehenderit alias? Eligendi aperiam
-              tempora numquam sint odit optio.
+             
             </p>
             <p className="hero--section-description">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-              officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-              recusandae?
+            Hello! I am Jose Jobins, a  
+            software developer with a deep interest in new applications of technology to better our lives. Outside of coding, I enjoy going to
+            the gym and reading.  I'm always open to
+             collaborative projects and opportunities to grow my skills. Feel free to conenct with me through linekd in 
+             if you would like to work together! 
             </p>
           </div>
         </div>
       </section>
     );
   }
-  

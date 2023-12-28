@@ -72,7 +72,7 @@ function Footer() {
                 to="testimonial"
                 className="text-md"
               >
-                Testimonials
+                {/* testemonilas revamp site  */}
               </Link>
             </li>
           </ul>
@@ -172,7 +172,7 @@ function Footer() {
       </div>
       <hr className="divider" />
       <div className="footer--content--container">
-        <p className="footer--content">Made with 💖 by John</p>
+        <p className="footer--content">Thanks for Visiting!</p>
         <div className="footer--social--icon">
           <ul>
             <li>
