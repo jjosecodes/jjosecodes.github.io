@@ -17,7 +17,7 @@ export default function MyPortfolio() {
             </button>
           </a>
           {/* LinkedIn Button */}
-          <a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/jose-jobins-/" target="_blank" rel="noopener noreferrer">
             <button className="btn btn-github">
               <img src="/img/link.png" alt="LinkedIn" width="32" height="32" />
               Visit My LinkedIn
@@ -37,12 +37,13 @@ export default function MyPortfolio() {
                 <p className="text-md">{item.description}</p>
               </div>
               <p className="text-sm portfolio--link">
-                {item.link} 
+              <a href={item.link} target="_blank" rel="noopener noreferrer">
+    View In Github 
                 <svg
-                  xmlns="http://www.w3.org/2000/svg"
+                  xmlns="http://w.w3.org/2000/svg"
                   width="16"
                   height="16"
-                  viewBox="0 0 20 19"
+                  viewBox=" 0 0 20 19"
                   fill="none"
                 >
                   <path
@@ -53,6 +54,7 @@ export default function MyPortfolio() {
                     stroke-linejoin="round"
                   />
                 </svg>
+                 </a>
               </p>
             </div>
           </div>
