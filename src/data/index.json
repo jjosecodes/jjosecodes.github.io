@@ -2,25 +2,25 @@
     "skills": [
       {
         "id": "1",
-        "src": "./img/product-chain-1.png",
+        "src": "./img/front.png",
         "title": "Front-End",
         "description": " HTML, CSS, JavaScript, React.js"
       },
       {
         "id": "2",
-        "src": "./img/tag-1.png",
+        "src": "./img/back.png",
         "title": "Back-End",
         "description": "Node.js, Express.js, MongoDB"
       },
       {
         "id": "3",
-        "src": "./img/feather-pen-2.png",
+        "src": "./img/ui.png",
         "title": "UI & UX Design",
         "description": "Figma, Bootstrap, Material UI"
       },
       {
         "id": "4",
-        "src": "./img/feather-pen-1.png",
+        "src": "./img/cloud.png",
         "title": "Cloud Engineering",
         "description":"AWS, Azure, Google Cloud" 
       }
@@ -29,7 +29,7 @@
       {
         "id": "1",
         "src": "./img/websitePage.png",
-        "title": "React Personal Website",
+        "title": "React Personal Website", 
         "description": "",
          "link": "https://github.com/jjosecodes/react-portfolio"
       },
