@@ -111,9 +111,10 @@ h2 {
 }
 /* Heading 3 */
 h2 {
-  font-size: 24px;
+  font-size: 45px;
   font-weight: 700;
   line-height: 34px;
+   margin-bottom: 20px;
 }
 
 /* Pragraphs text large medium small */
