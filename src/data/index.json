@@ -35,10 +35,10 @@
       },
       {
         "id": "2",
-        "src": "./img/placeholder-image-1.png",
-        "title": "coming soon !!",
+        "src": "./img/PYTHONMASTER.png",
+        "title": "Snake Game AI ",
         "description": " ",
-        "link": "https://github.com/jjosecodes/react-portfolio"
+        "link": "https://github.com/jjosecodes/snake-game-hacker"
       },
       {
         "id": "3",
@@ -47,7 +47,7 @@
         "description": " ",
         "link": "View In Github"
       }
-    ],
+    ], 
     "testimonial": [
       {
         "id": "1",
