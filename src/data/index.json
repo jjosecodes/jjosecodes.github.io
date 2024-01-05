@@ -30,14 +30,14 @@
         "id": "1",
         "src": "./img/websitePage.png",
         "title": "React Personal Website", 
-        "description": "",
+        "description": "A page to showcase projects and some of my skills.",
          "link": "https://github.com/jjosecodes/react-portfolio"
       },
       {
         "id": "2",
         "src": "./img/PYTHONMASTER.png",
         "title": "Snake Game AI ",
-        "description": " ",
+        "description": "A self learning Ai made to play the popular sake game using Q learning algorithms.",
         "link": "https://github.com/jjosecodes/snake-game-hacker"
       },
       {
