@@ -28,10 +28,7 @@ export default function ContactMe() {
                       <span className="text-md">Last Name</span>
                       <input
                           type="text"
-                          className="contact--input text-md"
-                          name="last-name"
-                          id="last-name"
-                          required
+                        // brezze v 12 -3 
                       />
                   </label>
                   <label htmlFor="email" className="contact--label">
