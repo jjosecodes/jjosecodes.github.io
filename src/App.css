@@ -18,6 +18,7 @@ body::before {
   background-color: #f5f5dc; /* Cream color */
   z-index: -1; /* Set z-index to be behind the content */
 }
+
 h1,
 h2,
 h3,
@@ -29,6 +30,7 @@ p {
 }
 :root {
   --primary: #5e3bee;
+
   --heading-color: #a7a7f3;
   --bg-shade: #001954;
   --github: #2E2E2E;
