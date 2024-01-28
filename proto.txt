@@ -634,6 +634,7 @@
       "longIdleNotificationThreshold": 1209600,
       "longIdleReward": 1440,
       "numDailyGiftsCollected": 419,
+      // should become 440 after current change 
       "hyperloopStation": true,
       "boosts": [
         {
