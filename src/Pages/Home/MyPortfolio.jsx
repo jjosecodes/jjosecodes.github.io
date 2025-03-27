@@ -17,7 +17,7 @@ export default function MyPortfolio() {
             </button>
           </a>
           {/* LinkedIn Button */}
-          <a href="https://www.linkedin.com/in/jose-jobins-/" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.linkedin.com/in/jose-jobins/" target="_blank" rel="noopener noreferrer">
             <button className="btn btn-github">
               <img src="/img/link.png" alt="LinkedIn" width="32" height="32" />
               Visit My LinkedIn
